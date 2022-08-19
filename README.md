@@ -20,15 +20,7 @@ https://insights.stackoverflow.com/su...
 
 3-to show wep app from this link:https://salary-perdiction.herokuapp.com/
 
-## Installation
 
-Install my-project with npm
-
-```bash
-  npm install SP
-  cd SP
-```
-    
 ## Authors
 
 - [@Abduallh Eid](https://github.com/abduallheid)

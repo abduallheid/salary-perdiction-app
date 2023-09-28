@@ -18,7 +18,7 @@
 * https://insights.stackoverflow.com/su...
 * https://insights.stackoverflow.com/su...
 
-##  visit a wep app , from this link: https://salary-perdiction.herokuapp.com/](https://salary-perdiction-app.streamlit.app/)
+##  visit a wep app , from this link: https://salary-perdiction-app.streamlit.app/
 
 ## 3 pages (predict , explore , view)
 ### -predict :
